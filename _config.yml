@@ -1,2 +1,3 @@
 name: Ole Jonas Wenzel, thinking ...
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
